@@ -37,7 +37,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utileStyle.headingMd}>
         <p>
-          私は駆け出しエンジニアです/前職はロードサービスをしていました
+          私は駆け出しエンジニアです/前職はロードサービスをしていました/９月から転職します
         </p>
       </section>
 
